@@ -1,1 +1,1 @@
-[a relative link](xsl_lab1.xml)
+[XSL Lab 1](https://harchevnikovdenis.github.io/xsl_lab1.xml)
